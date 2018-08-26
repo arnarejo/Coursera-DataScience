@@ -2,11 +2,12 @@
 **This repos consists of details of assignments completed as part of Coursera Data Science Specialization by John Hopkins University.**
 
 **Launch Your Career in Data Science. A nine-course introduction to data science, developed and taught by leading professors.**
+
 Ask the right questions, manipulate data sets, and create visualizations to communicate results. This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.
-## There are 10 Courses in this Specialization
 
 ### Course 1: The Data Scientist’s Toolbox
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/7QBNK95Q5RAC)
+
 In this course you will get an introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
 
 ### Course 2:  R Programming
@@ -14,12 +15,14 @@ In this course you will learn how to program in R and how to use R for effective
 
 ### Course 3: Getting and Cleaning Data
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/KU4VBSTETK9X)
+
 Before you can work with data you have to get some. This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also cover the basics of data cleaning and how to make data “tidy”. Tidy data dramatically speed downstream data analysis tasks. The course will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course will cover the basics needed for collecting, cleaning, and sharing data.
 
 **Project** [Getting and cleaning data](https://github.com/arnarejo/COURSERA-getting-and-cleaning-data)
 
 ### Course 4: Exploratory Data Analysis
 This course covers the essential exploratory techniques for summarizing data. These techniques are typically applied before formal modeling commences and can help inform the development of more complex statistical models. Exploratory techniques are also important for eliminating or sharpening potential hypotheses about the world that can be addressed by the data. We will cover in detail the plotting systems in R as well as some of the basic principles of constructing data graphics. We will also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
+
 **Project 1** [Plotting Assignment 1 for Exploratory Data Analysis](https://github.com/arnarejo/Coursera-EDA-week1)
 
 
