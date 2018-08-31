@@ -31,7 +31,7 @@ This course will cover the basic ways that data can be obtained.
 **Project 1 :** [Getting and cleaning data](https://github.com/arnarejo/COURSERA-getting-and-cleaning-data)
 
 ### Course 4: Exploratory Data Analysis
-[CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/FSBJBL8XKVM9)
+[CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/FSBJBL8XKVM9)  
 This course covers the essential exploratory techniques for summarizing data.
 * We will cover in detail the plotting systems (base, lattice, ggplot) in R as well as some of the basic principles of constructing data graphics.
 * We will also cover some of the common multivariate statistical techniques used to visualize high-dimensional data.
