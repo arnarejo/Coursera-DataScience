@@ -55,7 +55,8 @@ One of the most common tasks performed by data scientists and data analysts are 
 
 ### Course 9: Developing Data Products
 A data product is the production output from a statistical analysis. Data products automate complex analysis tasks or use technology to expand the utility of a data informed model, algorithm or inference. This course covers the basics of creating data products using Shiny, R packages, and interactive graphics. The course will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.  
-**Project 1:** [R Markdown and Leaflet](https://github.com/arnarejo/CourseraDS-Leaflet)
+**Project 1:** [R Markdown and Leaflet](https://github.com/arnarejo/CourseraDS-Leaflet)  
+**Project 2:** [R Markdown and Plotly](https://github.com/arnarejo/CourseraDS-plotly)  
 
 ### Course 10: Data Science Capstone
 The capstone project class will allow students to create a usable/public data product that can be used to show your skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, and academic partners.
