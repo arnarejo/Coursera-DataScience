@@ -57,15 +57,15 @@ Linear models, as their name implies, relates an outcome to a set of predictors 
 This course will cover the basic components of building and applying prediction functions with an emphasis on practical applications.
 * The course will provide basic grounding in concepts such as training and tests sets, overfitting, and error rates.
 * The course will also introduce a range of model based and algorithmic machine learning methods including regression, classification trees, Naive Bayes, and random forests.
-* The course will cover the complete process of building prediction functions including data collection, feature creation, algorithms, and evaluation.
- 
+* The course will cover the complete process of building prediction functions including data collection, feature creation, algorithms, and evaluation.  
+
 **Project 1** [PML for human activity recognition](https://github.com/arnarejo/CourseraPML-HumanActivityRecognition)
 
 ### Course 9: Developing Data Products
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/LA8QQXW4HVUM)  
 * A data product is the production output from a statistical analysis.
 * This course covers the basics of creating data products using Shiny, R packages, and interactive graphics.
-* The course will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.
+* The course will focus on the statistical fundamentals of creating a data product that can be used to tell a story about data to a mass audience.  
 
 **Project 1:** [R Markdown and Leaflet](https://github.com/arnarejo/CourseraDS-Leaflet)  
 **Project 2:** [R Markdown and Plotly](https://github.com/arnarejo/CourseraDS-plotly)  
