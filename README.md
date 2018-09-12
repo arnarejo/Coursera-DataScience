@@ -40,6 +40,7 @@ This course covers the essential exploratory techniques for summarizing data.
 **Project 2:** [EPA Air pollution ](https://github.com/arnarejo/CourseraEDA--EPAAirPollution)
 
 ### Course 5: Reproducible Research
+[CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/M3KRYMRY6EJM)
 * Reproducible research is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.
 * This course will focus on literate statistical analysis tools which allow one to publish data analyses in a single document that allows others to easily execute the same analysis to obtain the same results.
 
