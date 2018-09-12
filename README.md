@@ -4,12 +4,14 @@
 **Launch Your Career in Data Science. A nine-course introduction to data science, developed and taught by leading professors.**
 
 Ask the right questions, manipulate data sets, and create visualizations to communicate results. This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.
+
 ---
 ### Course 1: The Data Scientist’s Toolbox
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/7QBNK95Q5RAC)  
 There are two components to this course,
 * a conceptual introduction to the ideas behind turning data into actionable knowledge.
 * a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
+
 ---
 ### Course 2:  R Programming
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/GYYYQ9R6W7EB)  
@@ -18,6 +20,7 @@ In this course you will learn,
 * programming in R, reading data into R, accessing R packages, writing R functions, debugging, profiling R code, and organizing and commenting R code. Topics in statistical data analysis will provide working examples.
 
 **Project 1:** [Lexical Programming](CourseraRProgramming-LexicalProgramming)
+
 ---
 ### Course 3: Getting and Cleaning Data
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/KU4VBSTETK9X)
@@ -29,6 +32,7 @@ This course will cover the basic ways that data can be obtained.
 * The course will cover the basics needed for collecting, cleaning, and sharing data.
 
 **Project 1 :** [Getting and cleaning data - Human Activity](CourseraGDC-HumanActivityRecognition)
+
 ---
 ### Course 4: Exploratory Data Analysis
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/FSBJBL8XKVM9)  
@@ -38,6 +42,7 @@ This course covers the essential exploratory techniques for summarizing data.
 
 **Project 1:** [Household Power Consumption](https://github.com/arnarejo/CourseraEDA-HouseholdPowerConsumption)  
 **Project 2:** [EPA Air pollution ](https://github.com/arnarejo/CourseraEDA--EPAAirPollution)
+
 ---
 ### Course 5: Reproducible Research
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/M3KRYMRY6EJM)
@@ -46,12 +51,14 @@ This course covers the essential exploratory techniques for summarizing data.
 
 **Project 1:** [Personal Activity Monitor](https://github.com/arnarejo/CourseraRR-PersonalActivityMonitor)  
 **Project 2:** [Exploring NOAA Storm Database](https://github.com/arnarejo/CourseraRR-StormData)
+
 ---
 ### Course 6: Statistical Inference
 Statistical inference is the process of drawing conclusions about populations or scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of designs and randomization in analyses. Furthermore, there are broad theories (frequentists, Bayesian, likelihood, design based, …) and numerous complexities (missing data, observed and unobserved confounding, biases) for performing inference. A practitioner can often be left in a debilitating maze of techniques, philosophies and nuance. This course presents the fundamentals of inference in a practical approach for getting things done. After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data.
 ---
 ### Course 7: Regression Models
 Linear models, as their name implies, relates an outcome to a set of predictors of interest using linear assumptions. Regression models, a subset of linear models, are the most important statistical analysis tool in a data scientist’s toolkit. This course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA will be covered as well. Analysis of residuals and variability will be investigated. The course will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
+
 ---
 ### Course 8: Practical Machine Learning  
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/FTQHTDECYVMU)  
@@ -61,6 +68,7 @@ This course will cover the basic components of building and applying prediction 
 * The course will cover the complete process of building prediction functions including data collection, feature creation, algorithms, and evaluation.
 
 **Project 1** [PML for human activity recognition](https://github.com/arnarejo/CourseraPML-HumanActivityRecognition)
+
 ---
 ### Course 9: Developing Data Products
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/LA8QQXW4HVUM)  
@@ -71,6 +79,7 @@ This course will cover the basic components of building and applying prediction 
 **Project 1:** [R Markdown and Leaflet](https://github.com/arnarejo/CourseraDS-Leaflet)  
 **Project 2:** [R Markdown and Plotly](https://github.com/arnarejo/CourseraDS-plotly)  
 **Project 3:** [Shiny App](https://github.com/arnarejo/CourseraDS-ShinyApp)  
+
 ---
 ### Course 10: Data Science Capstone
 The capstone project class will allow students to create a usable/public data product that can be used to show your skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, and academic partners.
