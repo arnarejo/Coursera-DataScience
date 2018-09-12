@@ -3,9 +3,10 @@
 
 **Launch Your Career in Data Science. A nine-course introduction to data science, developed and taught by leading professors.**
 
-Ask the right questions, manipulate data sets, and create visualizations to communicate results. This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.
+Ask the right questions, manipulate data sets, and create visualizations to communicate results. This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.  
 
 ---
+
 ### Course 1: The Data Scientist’s Toolbox
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/7QBNK95Q5RAC)  
 There are two components to this course,
@@ -13,6 +14,7 @@ There are two components to this course,
 * a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
 
 ---
+
 ### Course 2:  R Programming
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/GYYYQ9R6W7EB)  
 In this course you will learn,
@@ -22,6 +24,7 @@ In this course you will learn,
 **Project 1:** [Lexical Programming](CourseraRProgramming-LexicalProgramming)
 
 ---
+
 ### Course 3: Getting and Cleaning Data
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/KU4VBSTETK9X)
 
