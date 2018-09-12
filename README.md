@@ -47,6 +47,7 @@ This course covers the essential exploratory techniques for summarizing data.
 **Project 2:** [EPA Air pollution ](https://github.com/arnarejo/CourseraEDA--EPAAirPollution)
 
 ---
+
 ### Course 5: Reproducible Research
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/M3KRYMRY6EJM)
 * Reproducible research is the idea that data analyses, and more generally, scientific claims, are published with their data and software code so that others may verify the findings and build upon them.
@@ -56,13 +57,17 @@ This course covers the essential exploratory techniques for summarizing data.
 **Project 2:** [Exploring NOAA Storm Database](https://github.com/arnarejo/CourseraRR-StormData)
 
 ---
+
 ### Course 6: Statistical Inference
-Statistical inference is the process of drawing conclusions about populations or scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of designs and randomization in analyses. Furthermore, there are broad theories (frequentists, Bayesian, likelihood, design based, …) and numerous complexities (missing data, observed and unobserved confounding, biases) for performing inference. A practitioner can often be left in a debilitating maze of techniques, philosophies and nuance. This course presents the fundamentals of inference in a practical approach for getting things done. After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data.
+Statistical inference is the process of drawing conclusions about populations or scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of designs and randomization in analyses. Furthermore, there are broad theories (frequentists, Bayesian, likelihood, design based, …) and numerous complexities (missing data, observed and unobserved confounding, biases) for performing inference. A practitioner can often be left in a debilitating maze of techniques, philosophies and nuance. This course presents the fundamentals of inference in a practical approach for getting things done. After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data.  
+
 ---
+
 ### Course 7: Regression Models
 Linear models, as their name implies, relates an outcome to a set of predictors of interest using linear assumptions. Regression models, a subset of linear models, are the most important statistical analysis tool in a data scientist’s toolkit. This course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA will be covered as well. Analysis of residuals and variability will be investigated. The course will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
 
 ---
+
 ### Course 8: Practical Machine Learning  
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/FTQHTDECYVMU)  
 This course will cover the basic components of building and applying prediction functions with an emphasis on practical applications.
@@ -73,6 +78,7 @@ This course will cover the basic components of building and applying prediction 
 **Project 1** [PML for human activity recognition](https://github.com/arnarejo/CourseraPML-HumanActivityRecognition)
 
 ---
+
 ### Course 9: Developing Data Products
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/LA8QQXW4HVUM)  
 * A data product is the production output from a statistical analysis.
@@ -84,5 +90,6 @@ This course will cover the basic components of building and applying prediction 
 **Project 3:** [Shiny App](https://github.com/arnarejo/CourseraDS-ShinyApp)  
 
 ---
+
 ### Course 10: Data Science Capstone
 The capstone project class will allow students to create a usable/public data product that can be used to show your skills to potential employers. Projects will be drawn from real-world problems and will be conducted with industry, government, and academic partners.
