@@ -63,6 +63,7 @@ Statistical inference is the process of drawing conclusions about populations or
 
 **Project 1:** [Simulation](https://github.com/arnarejo/CourseraSI-Simulation)  
 **Project 2:** [Inferential Data Analysis](https://github.com/arnarejo/CourseraSI-InferentialDataAnalysis)
+
 ---
 
 ### Course 7: Regression Models
