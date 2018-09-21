@@ -61,7 +61,9 @@ This course covers the essential exploratory techniques for summarizing data.
 ### Course 6: Statistical Inference
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/8Q7PK4FVJL57)
 
-Statistical inference is the process of drawing conclusions about populations or scientific truths from data. There are many modes of performing inference including statistical modeling, data oriented strategies and explicit use of designs and randomization in analyses. Furthermore, there are broad theories (frequentists, Bayesian, likelihood, design based, …) and numerous complexities (missing data, observed and unobserved confounding, biases) for performing inference. A practitioner can often be left in a debilitating maze of techniques, philosophies and nuance. This course presents the fundamentals of inference in a practical approach for getting things done. After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data.
+* Statistical inference is the process of drawing conclusions about populations or scientific truths from data.
+* This course presents the fundamentals of inference in a practical approach for getting things done.
+* After taking this course, students will understand the broad directions of statistical inference and use this information for making informed choices in analyzing data.
 
 **Project 1:** [Simulation](https://github.com/arnarejo/CourseraSI-Simulation)  
 **Project 2:** [Inferential Data Analysis](https://github.com/arnarejo/CourseraSI-InferentialDataAnalysis)
@@ -70,7 +72,9 @@ Statistical inference is the process of drawing conclusions about populations or
 
 ### Course 7: Regression Models
 [CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/TF9TP6GHNN9U)  
-Linear models, as their name implies, relates an outcome to a set of predictors of interest using linear assumptions. Regression models, a subset of linear models, are the most important statistical analysis tool in a data scientist’s toolkit. This course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA will be covered as well. Analysis of residuals and variability will be investigated. The course will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
+* Linear models, as their name implies, relates an outcome to a set of predictors of interest using linear assumptions. Regression models, a subset of linear models, are the most important statistical analysis tool in a data scientist’s toolkit.
+* This course covers regression analysis, least squares and inference using regression models. Special cases of the regression model, ANOVA and ANCOVA will be covered as well. Analysis of residuals and variability will be investigated.
+* The course will cover modern thinking on model selection and novel uses of regression models including scatterplot smoothing.
 
 ---
 
